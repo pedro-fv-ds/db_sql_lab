@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/Databricks-BR/lab_sql/main/images/header_handson_sql.png">
+Commit pelo DataBricks (by Pedro F V)
 
 # Databricks SQL Labs 
 
